@@ -1,12 +1,7 @@
-# Goal: Calculate diversity scores, and visualize respective distance matricies of the clinical data.
-# Author: Vivek Mathew
-# Email: vivekmathew@brandeis.edu
-# Date: 12/17/2024
-
-
-## Diversity Script ###
-
-### Description ###
+## Diversity Script
+#### Calculates diversity scores, and visualize respective distance matricies of the clinical data.
+#### Vivek M. - 12/17/2024
+### Description
 A single Python script named diversity-script.py that generates an updated clinical data file with
 average diversity scores, and standard deviation. Also generates scatter plots of animals with the largest
 average diversity score (2), and smallest diversity score.

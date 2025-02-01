@@ -1,5 +1,5 @@
 ## Diversity Script
-#### Calculates diversity scores, and visualize respective distance matricies of the clinical data.
+#### Calculates diversity scores, and visualizes respective distance matricies of the data.
 #### Vivek M. - 12/17/2024
 ### Description
 A single Python script named diversity-script.py that generates an updated clinical data file with

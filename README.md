@@ -7,6 +7,7 @@ average diversity scores, and standard deviation. Also generates scatter plots o
 average diversity score (2), and smallest diversity score.
 
 Input:
+
 clinical_data.txt   Tabulated TXT file containing information regarding animals from dataset
 diversityScores     Directory containing TXT files for diversity scores of every animal found in clinical_data.txt
 distanceFiles       Directory containing TXT files for distance matricies of every animal found in clinical_data.txt
